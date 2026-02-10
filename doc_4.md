@@ -19,14 +19,12 @@ Functions Implemented
 Node Creation
 
 1.createNode(int data)
-Purpose
-Create and initialize a new node
+Purpose :Create and initialize a new node
 
 Insertion Operations
 
 2.insertAtBeginning(Node **head, int data)
-Purpose
-Insert a node at the beginning of the list
+Purpose :Insert a node at the beginning of the list
 
 3.insertAtEnd(Node **head, int data)
 Purpose
