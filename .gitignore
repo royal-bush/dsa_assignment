@@ -1,0 +1,40 @@
+# Compiled binaries
+prog_1
+prog_2
+prog_3
+prog_4
+prog_5
+prog_6
+prog_7
+prog_8
+
+# Object files
+*.o
+*.obj
+*.out
+
+# Debug symbols
+*.gch
+*.dSYM/
+
+# Executables
+*.exe
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.a
